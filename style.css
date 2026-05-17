@@ -3,6 +3,7 @@
     gap: 20px;         /* 两张卡片之间的间距 */
 }
 .card {
+    width: 100%;
     flex: 1;
     margin-bottom: 20px;
     background: #2de6d6;
