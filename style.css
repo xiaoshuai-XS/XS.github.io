@@ -1,3 +1,7 @@
+.card-container {
+    display: flex;      /* 开启弹性布局 */
+    gap: 20px;         /* 两张卡片之间的间距 */
+}
 .card {
     background: #2de6d6;
     border-radius: 12px;
